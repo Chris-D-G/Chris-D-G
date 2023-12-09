@@ -25,7 +25,7 @@ Languages I want to learn:
     * Why? - Despite the memes about it dying, considering that a large portion of the web runs on PHP, it makes sense to learn about it.
 * [GO](https://go.dev/)
     * Why? - A more modern language that seems to be in demand.
-*[Elixir](https://elixir-lang.org/)
+* [Elixir](https://elixir-lang.org/)
    * Why? - To learn functional/dynamic programming skills. It also seems to be very popular per the StackOverflow Survey.
 Frameworks / Technologies I want to look into: 
 * [Tailwind](https://tailwindcss.com/)
