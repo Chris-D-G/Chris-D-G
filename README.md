@@ -27,6 +27,7 @@ Languages I want to learn:
     * Why? - A more modern language that seems to be in demand.
 * [Elixir](https://elixir-lang.org/)
    * Why? - To learn functional/dynamic programming skills. It also seems to be very popular per the StackOverflow Survey.
+
 Frameworks / Technologies I want to look into: 
 * [Tailwind](https://tailwindcss.com/)
     * Why? - Versatility in CSS frameworks!
